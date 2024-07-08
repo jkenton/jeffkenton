@@ -40,7 +40,7 @@ exclude:
   _site
 #   - .sass-cache/
 #   - .jekyll-cache/
-gemfiles/
+# gemfiles/
 Gemfile
 Gemfile.lock
 #   - node_modules/
