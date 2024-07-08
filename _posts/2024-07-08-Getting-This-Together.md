@@ -5,7 +5,5 @@ layout: post
 comments: true
 ---
 
-<figure>
- <img src="/images/EDIT ME" alt="EDIT ME">
- <figcaption>EDIT ME</figcaption>
-</figure>
+I don't know what is happening... DO YOU?
+
