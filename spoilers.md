@@ -35,3 +35,5 @@ permalink: spoilers.html
 ---
 
 Thanks for playing!
+
+OH COME ON!
