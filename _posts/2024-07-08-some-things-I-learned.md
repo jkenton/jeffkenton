@@ -5,10 +5,6 @@ layout: post
 comments: true
 ---
 
-<figure>
- <img src="/images/EDIT ME" alt="EDIT ME">
- <figcaption>EDIT ME</figcaption>
-</figure>
 
 
 1. I am convinced that I subconsciously carry unprocessed mental remnants of my past, and that there are plenty of physical artifacts that attend those. So, when encountering something that seems out of place, or strange, I ask myself, "Does this suit a current purpose?" If so, find a place for it. If not, consider whether this thing is the only remnant that can satisfy its purpose. If so, find a place for it. Otherwise, if it's fungible or not currently needed, donate it or trash it.
