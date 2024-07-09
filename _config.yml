@@ -37,8 +37,7 @@ comments: true
 # Excluded items can be processed by explicitly listing the directories or
 # their entries' file path in the `include:` list.
 #
-exclude:
-  _site
+exclude: [ _site ]
 #   - .sass-cache/
 #   - .jekyll-cache/
 # gemfiles/
